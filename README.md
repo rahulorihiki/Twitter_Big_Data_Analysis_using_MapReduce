@@ -2,6 +2,15 @@
 
 This project leverages Apache Spark's map-reduce capabilities to perform comprehensive analysis on a large Twitter dataset. Key insights include hashtag trends, tweet patterns, and user activity, providing valuable data-driven insights into social media interactions without relying on Spark DataFrame API or Spark SQL.
 
+## Table of Contents
+
+1. [Introduction](#twitter-big-data-analysis-using-map-reduce)
+2. [Installation](#installation)
+3. [Features](#features)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact Information](#contact-information)
+
 ## Installation
 
 ## Features
