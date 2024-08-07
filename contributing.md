@@ -10,7 +10,7 @@ Contributions are welcome! If you have suggestions for improvements, please foll
 
    - Clone your forked repository to your local machine.
      ```bash
-     git clone https://github.com/rahulorihiki/Twitter_Big_Data_Analysis_using_MapReduce
+     git clone https://github.com/rahulorihiki/Twitter_Big_Data_Analysis_using_MapReduce.git
      cd book-discovery-hub
      ```
 
